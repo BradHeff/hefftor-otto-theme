@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=Otto Global theme
+Name=Otto
+X-KDE-PluginInfo-Author=Jomada
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=gicalucejo@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 3+
+X-KDE-PluginInfo-Name=Otto
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=sediccionlinux.wordpress.com
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1358259,kns://plasma-themes.knsrc/api.kde-look.org/1358262,kns://icons.knsrc/api.kde-look.org/1305429,,kns://wallpaper.knsrc/api.kde-look.org/1358263
